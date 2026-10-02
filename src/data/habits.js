@@ -1,0 +1,50 @@
+export const habits = [
+  {
+    id: "academics",
+    name: "Academics",
+    description: "Study, revision, assignments",
+    weight: 20,
+    targetMinutes: 90,
+  },
+  {
+    id: "coding",
+    name: "Coding & AI",
+    description: "Programming, ML, SQL, technical learning",
+    weight: 20,
+    targetMinutes: 60,
+  },
+  {
+    id: "project",
+    name: "Project Work",
+    description: "Work on meaningful projects",
+    weight: 15,
+    targetMinutes: 45,
+  },
+  {
+    id: "fitness",
+    name: "Fitness",
+    description: "Workout, sports or movement",
+    weight: 15,
+    targetMinutes: 45,
+  },
+  {
+    id: "communication",
+    name: "Communication",
+    description: "Speaking, reading or presentation practice",
+    weight: 10,
+    targetMinutes: 20,
+  },
+  {
+    id: "sleep",
+    name: "Sleep",
+    description: "Maintain healthy sleep consistency",
+    weight: 10,
+    targetHours: 8,
+  },
+  {
+    id: "discipline",
+    name: "Digital Discipline",
+    description: "Control unnecessary screen time",
+    weight: 10,
+  },
+];
